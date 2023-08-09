@@ -1,0 +1,23 @@
+Topic: Git and Github
+Date:9-08-2023
+
+What is Git
+Git is the tool that tracks the changes in your code over time.
+
+What is Github
+Github is a website to host you repositories online.
+
+Here are some Git terms
+1.Directory-folder
+2.Terminal or comandlne-interface for text command
+3.CLI-command line interface
+4.Cd-Change Directory
+5.Code Editor-word proccessor for writting code
+6.Repository-project, or a folder/place where your project is kept
+
+Git and Github Commands
+1.Clone-Brings a repository that is hosted somewhere like Githubinto a folder on your local machine
+2.git add-tracks your file and changes in Git
+3.git commit-save your file in Git
+4.Push-upload Git commit to a remote repo like Github
+5.pull-d0wnload changes from remote repo to your local machine, the opposite of Push.
